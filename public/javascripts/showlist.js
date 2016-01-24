@@ -12,6 +12,6 @@ function init() {
         .to({ alpha: 0, y: 225 }, 100)
         .to({ alpha: 1, y: 200 }, 500, createjs.Ease.getPowInOut(2))
         .to({ x: 100 }, 800, createjs.Ease.getPowInOut(2));
-    createjs.Ticker.setFPS(60);
-    createjs.Ticker.addEventListener("tick", stage);
+    createjs.Ticker.setFPS(60);//frame per second of the animation
+    createjs.Ticker.addEventListener("tick", stage);//start the animation
 }

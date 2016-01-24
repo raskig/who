@@ -23,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.022421524" vertical-offset="0" max-vertical-offset="669">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
               <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showlist.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="showlist.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/javascripts/showlist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.230769" vertical-offset="0" max-vertical-offset="330">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.34992224" vertical-offset="0" max-vertical-offset="643">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -85,8 +85,8 @@
       <list>
         <option value="$PROJECT_DIR$/views/index.html" />
         <option value="$PROJECT_DIR$/public/test.html" />
-        <option value="$PROJECT_DIR$/public/javascripts/showlist.js" />
         <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/showlist.js" />
       </list>
     </option>
   </component>
@@ -330,18 +330,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/showlist.js">
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.230769" vertical-offset="0" max-vertical-offset="330">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/showlist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022421524" vertical-offset="0" max-vertical-offset="669">
-          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.34992224" vertical-offset="0" max-vertical-offset="643">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="50" />
           <folding />
         </state>
       </provider>
